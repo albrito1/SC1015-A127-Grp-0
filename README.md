@@ -10,17 +10,17 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 3. [Data Preprocessing]
 4. [Data Manipulation]
 5. [Predictive Modelling]
-- [Lasso Linear Regression]
-- [Ridge Linear Regression]
-- [Elastic Net Regression]
-- [Polynomial Regression]
+  - [Lasso Linear Regression]
+  - [Ridge Linear Regression]
+  - [Elastic Net Regression]
+  - [Polynomial Regression]
 6. [Comparing the Regression Models]
   
 ## 🤓 Contributors
 
-- @albrito1
-- @brendanteo42
-- @
+- Keefer Loo Guo Hao (@albrito1)
+- Teo Jyun Wei Brendan (@brendanteo42)
+- Kenneth Yew Zhen Yuan (@)
 
 ## 🧠 Problem Statement
 
