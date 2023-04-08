@@ -50,6 +50,9 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 
 ## References
 
-- <https://www.analyticsvidhya.com/blog/2017/06/a-comprehensive-guide-for-linear-ridge-and-lasso-regression>
-- <https://www.kaggle.com/datasets/yasserh/walmart-dataset>
+- [Walmart Dataset](https://www.kaggle.com/datasets/yasserh/walmart-dataset)
+- [Guide for Linear Ridge and Lasso Regression](https://www.analyticsvidhya.com/blog/2017/06/a-comprehensive-guide-for-linear-ridge-and-lasso-regression)
+- [Ridge Regression Explanation] (https://www.youtube.com/watch?v=Q81RR3yKn30&ab_channel=StatQuestwithJoshStarmer)
+- [Lasso Regression Explanation] (https://www.youtube.com/watch?v=NGf0voTMlcs&ab_channel=StatQuestwithJoshStarmer)
+- [Elastic Net Regression Explanation] (https://www.youtube.com/watch?v=1dKRdX9bfIo&t=253s&ab_channel=StatQuestwithJoshStarmer)
 
