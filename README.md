@@ -42,7 +42,6 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 
 ## What did we learn from this project?
 
-- Handling Large Datasets
 - Improving and cleaning of datasets with
 - Using plotly as a tool for interactive visualisations
 - Lasso and Ridge Linear Regression
