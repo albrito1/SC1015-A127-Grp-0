@@ -4,7 +4,7 @@
 
 This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on Walmart Sales from [Walmart Dataset](https://www.kaggle.com/datasets/yasserh/walmart-dataset). For detailed walkthrough, please view the source code in order from:
 
-## Table of Contents
+## ⚙ Table of Contents
 1. [Data Exploration](https://github.com/nicklimmm/movie-analysis/blob/main/data-extraction.ipynb)
 2. [Exploratory Data Analysis]
 3. [Data Preprocessing]
