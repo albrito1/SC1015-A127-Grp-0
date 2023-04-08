@@ -1,6 +1,6 @@
 # SC1015-A127-Grp-0
 
-## About
+## 🚀 About
 
 This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on Walmart Sales from [Walmart Dataset](https://www.kaggle.com/datasets/yasserh/walmart-dataset). For detailed walkthrough, please view the source code in order from:
 
@@ -10,37 +10,37 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 3. [Data Preprocessing]
 4. [Data Manipulation]
 5. [Predictive Modelling]
-  a. [Lasso Linear Regression]
-  b. [Ridge Linear Regression]
-  c. [Elastic Net Regression]
-  d. [Polynomial Regression]
+a. [Lasso Linear Regression]
+b. [Ridge Linear Regression]
+c. [Elastic Net Regression]
+d. [Polynomial Regression]
 6. [Comparing the Regression Models]
   
-## Contributors
+## 🤓 Contributors
 
 - @albrito1
 - @brendanteo42
 - @
 
-## Problem Definition
+## 🧠 Problem Statement
 
 - What are the different predictive modelling we can use? (In the case of our dataset, Walmart Sales)
 - Are the models really reliable? 
 - Do they have any weaknesses? 
 - Which predictive modelling is the most reliable?
 
-## Models Used
+## 📈 Models Used
 
 1. Lasso Linear Regression
 2. Ridge Linear Regression
 3. Elastic Net Regression
 4. Polynomial Regression
 
-## Conclusion
+## 💥 Conclusion
 
 
 
-## What did we learn from this project?
+## 💗 What did we learn from this project?
 
 - Improving and cleaning of datasets with
 - Using plotly as a tool for interactive visualisations
