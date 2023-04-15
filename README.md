@@ -8,13 +8,13 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 1. [Data Exploration](https://github.com/albrito1/SC1015-A127-Grp-0/blob/main/Data_Exploration.ipynb)
 2. [Exploratory Data Analysis](https://github.com/albrito1/SC1015-A127-Grp-0/blob/main/Data_Exploration.ipynb)
 3. [Data Preprocessing](https://github.com/albrito1/SC1015-A127-Grp-0/blob/main/Data_Preprocessing.ipynb)
-4. [Data Manipulation](https://github.com/albrito1/SC1015-A127-Grp-0/blob/main/Data_Preprocessing.ipynb)
-5. [Predictive Modelling]
-   - [Lasso Linear Regression]
-   - [Ridge Linear Regression]
-   - [Elastic Net Regression]
-   - [Polynomial Regression]
-6. [Comparing the Regression Models]
+4. [Data Manipulation](https://github.com/albrito1/SC1015-A127-Grp-0/blob/main/Data_Manipulation_Predictive_Modelling.ipynb)
+5. [Predictive Modelling](https://github.com/albrito1/SC1015-A127-Grp-0/blob/main/Data_Manipulation_Predictive_Modelling.ipynb)
+   - [Lasso Linear Regression](https://github.com/albrito1/SC1015-A127-Grp-0/blob/main/Data_Manipulation_Predictive_Modelling.ipynb)
+   - [Ridge Linear Regression](https://github.com/albrito1/SC1015-A127-Grp-0/blob/main/Data_Manipulation_Predictive_Modelling.ipynb)
+   - [Elastic Net Regression](https://github.com/albrito1/SC1015-A127-Grp-0/blob/main/Data_Manipulation_Predictive_Modelling.ipynb)
+   - [Polynomial Regression](https://github.com/albrito1/SC1015-A127-Grp-0/blob/main/Data_Manipulation_Predictive_Modelling.ipynb)
+6. [Comparing the Regression Models](https://github.com/albrito1/SC1015-A127-Grp-0/blob/main/Data_Manipulation_Predictive_Modelling.ipynb)
   
 ## 🤓 Contributors
 
@@ -37,7 +37,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 4. Polynomial Regression
 
 ## 💥 Conclusion!
-![Untitled](https://user-images.githubusercontent.com/130235553/232182914-bd966473-220e-41d1-ac42-78fef040feee.png)
+![Untitled](https://user-images.githubusercontent.com/130235553/232184402-6acbe379-2783-4229-b3d6-bcfafc6d8bb6.png)
 - As shown in the comparison table, we can see that the Polynomial Regression (PNR) model has the highest train R^2 accuracy, yet its test R^2 is negative. Therefore, we cannot use that particular model in this case, and will have to look for the next highest R^2 value.
 - Both the train and test R^2 value between Lasso Linear Regression (LLR) & Ridge Linear Regression (RLR) is very close, with LLR taking the lead. That would indicate both models are more suitable for our (insert problem statement here) prediction.
 
