@@ -39,7 +39,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 ## 💥 Conclusion!
 ![Untitled](https://user-images.githubusercontent.com/130235553/232184402-6acbe379-2783-4229-b3d6-bcfafc6d8bb6.png)
 - As shown in the comparison table, we can see that the Polynomial Regression (PNR) model has the highest train R^2 accuracy, yet its test R^2 is negative. Therefore, we cannot use that particular model in this case, and will have to look for the next highest R^2 value.
-- Both the train and test R^2 value between Lasso Linear Regression (LLR) & Ridge Linear Regression (RLR) is very close, with LLR taking the lead. That would indicate both models are more suitable for our (insert problem statement here) prediction.
+- Both the train and test R^2 value between Lasso Linear Regression (LLR) & Ridge Linear Regression (RLR) is very close, with RLR slightly taking the lead. That would indicate both models are more suitable for our (insert problem statement here) prediction.
 
 
 ## 💗 What did we learn from this project?
