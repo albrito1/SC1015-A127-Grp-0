@@ -20,7 +20,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 
 - Keefer Loo Guo Hao (@albrito1)
 - Teo Jyun Wei Brendan (@brendanteo42)
-- Kenneth Yew Zhen Yuan (@)
+- Kenneth Yew Zhen Yuan (@kyew003)
 
 ## 🧠 Problem Statement
 
