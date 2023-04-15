@@ -5,10 +5,10 @@
 This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on Walmart Sales from [Walmart Dataset](https://www.kaggle.com/datasets/yasserh/walmart-dataset). For detailed walkthrough, please view the source code in order from:
 
 ## ⚙ Table of Contents
-1. [Data Exploration](https://github.com/nicklimmm/movie-analysis/blob/main/data-extraction.ipynb)
-2. [Exploratory Data Analysis]
-3. [Data Preprocessing]
-4. [Data Manipulation]
+1. [Data Exploration](https://github.com/albrito1/SC1015-A127-Grp-0/blob/main/Data_Exploration.ipynb)
+2. [Exploratory Data Analysis](https://github.com/albrito1/SC1015-A127-Grp-0/blob/main/Data_Exploration.ipynb)
+3. [Data Preprocessing](https://github.com/albrito1/SC1015-A127-Grp-0/blob/main/Data_Preprocessing.ipynb)
+4. [Data Manipulation](https://github.com/albrito1/SC1015-A127-Grp-0/blob/main/Data_Preprocessing.ipynb)
 5. [Predictive Modelling]
    - [Lasso Linear Regression]
    - [Ridge Linear Regression]
