@@ -27,7 +27,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 - What are the different predictive modelling we can use? (In the case of our dataset, Walmart Sales)
 - Are the models really reliable? 
 - Do they have any weaknesses? 
-- Which predictive modelling is the most reliable?
+- Which is the best predictive model in the context of our project?
 
 ## 📈 Models Used
 
