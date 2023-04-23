@@ -58,4 +58,5 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 - [Ridge Regression Explanation](https://www.youtube.com/watch?v=Q81RR3yKn30&ab_channel=StatQuestwithJoshStarmer)
 - [Lasso Regression Explanation](https://www.youtube.com/watch?v=NGf0voTMlcs&ab_channel=StatQuestwithJoshStarmer)
 - [Elastic Net Regression Explanation](https://www.youtube.com/watch?v=1dKRdX9bfIo&t=253s&ab_channel=StatQuestwithJoshStarmer)
+- [Polynomial Regression Explanation](https://sparkbyexamples.com/machine-learning/polynomial-regression-with-examples/)
 
